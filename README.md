@@ -1,3 +1,4 @@
+I am editing the README file. Adding some more details about the project description.
 # Coursera: HTML, CSS and Javascript for Web Developers
 ## Example Source Code
 This repository contains all of the example source code used in the Coursera.org course called
